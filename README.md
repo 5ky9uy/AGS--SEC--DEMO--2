@@ -12,6 +12,7 @@
 * Verilog
 * Pencil/Paper
 * Xilinx Vivado (on AWS Windows 11 Workspace intance)
+* EDA Playground (for prototyping and demonstration of wave analysis triggered by testbench)
 
 # STEPS
 1. Handwrite original Digital Lock logic. 

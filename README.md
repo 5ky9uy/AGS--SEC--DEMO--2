@@ -29,7 +29,7 @@
 ## Concepts
 1. <https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29>
 ## Implementation
-1. (https://www.edaplayground.com/)
-2. (http://esd.cs.ucr.edu/labs/tutorial/)
-3. (https://caslab.csl.yale.edu/courses/EENG428/current/slides/eeng428-lecture-05-cloud-fpga-infrastructures.pdf)
-4. (https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/)
+1. <https://www.edaplayground.com/>
+2. <http://esd.cs.ucr.edu/labs/tutorial/>
+3. <https://caslab.csl.yale.edu/courses/EENG428/current/slides/eeng428-lecture-05-cloud-fpga-infrastructures.pdf>
+4. <https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/>

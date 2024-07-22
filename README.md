@@ -27,7 +27,7 @@
 
 # REFERENCES
 ## Concepts
-1. (https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29)
+1. <https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29>
 ## Implementation
 1. (https://www.edaplayground.com/)
 2. (http://esd.cs.ucr.edu/labs/tutorial/)

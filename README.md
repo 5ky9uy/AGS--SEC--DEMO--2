@@ -1,3 +1,10 @@
+# SCHEDULE 
+* 20h remaining
+* Expected by July 28, 2024
+  
+# DESCRIPTION
+* Verilog-based HW-trojan demonstration for C140. 
+
 # COMPONENTS
 * Digital Lock (with injected info-leaking HW-trojan)
 

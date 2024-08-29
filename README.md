@@ -1,6 +1,6 @@
 # SCHEDULE 
 * 24h remaining
-* Expected by July 28, 2024
+* Expected by July 28, 2024 (Extended to September, 2024)
   
 # DESCRIPTION
 * HDL-based IC-layer HW-trojan demonstration for C140.
